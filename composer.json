@@ -1,0 +1,9 @@
+{
+    "autoload" : {
+        "name":"Imoniu Aprasymas",
+        "description": "Imoniu Web",
+        "psr-4": {
+            "Imones\\": "app"
+        }
+    }
+}
